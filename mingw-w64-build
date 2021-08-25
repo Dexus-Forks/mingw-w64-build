@@ -17,7 +17,7 @@
 #
 
 v_script="4git"
-v_mingww64="8git"
+v_mingww64="9git"
 v_binutils="2.35git"
 v_gcc="10git"
 v_gmp="6.2.1"
