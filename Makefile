@@ -11,4 +11,4 @@ install: #unixlib.a
 
 build:
     chmod +x ./mingw-w64-build
-    ./mingw-w64-build
+    ./mingw-w64-build i686 x86_64
